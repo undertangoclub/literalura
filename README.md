@@ -49,7 +49,7 @@ Para ejecutar el proyecto, sigue estos pasos:
 
 ## 👨‍💻 Personas Desarrolladoras del Proyecto
 
-| [<img src="https://avatars.githubusercontent.com/u/37356058?v=4" width=115><br><sub>Pablo Guillermo Cieslik</sub>](https://github.com/undertangoclub) |
+| [<img src="https://avatars.githubusercontent.com/u/75939161?v=4" width=115><br><sub>Pablo Guillermo Cieslik</sub>](https://github.com/undertangoclub) |
 | :---: |
 
 ## ✉ Contacto
