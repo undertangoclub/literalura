@@ -1,6 +1,10 @@
 # Literatura API - Proyecto de Consulta de Libros Gutendex
 
-![Badge en Desarrollo](https://img.shields.io/badge/STATUS-EN%20DESARROLLO-green)
+![Java](https://img.shields.io/badge/Java-17-blue)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.3.5-brightgreen)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-blue)
+![Maven](https://img.shields.io/badge/Maven-Build%20Tool-yellow)
+![Hibernate](https://img.shields.io/badge/Hibernate-ORM-orange)
 
 ## 📚 Descripción del Proyecto
 
@@ -29,7 +33,7 @@ Bienvenido al proyecto **Literatura API**, una aplicación de consola desarrolla
 Puedes descargar el proyecto clónandolo desde el repositorio de GitHub:
 
 ```bash
-$ git clone https://github.com/tuusuario/literatura.git
+$ git clone https://github.com/undertangoclub/literalura.git
 ```
 
 ## 🛠️ Abre y ejecuta el proyecto
@@ -49,7 +53,7 @@ Para ejecutar el proyecto, sigue estos pasos:
 
 ## 👨‍💻 Personas Desarrolladoras del Proyecto
 
-| [<img src="https://avatars.githubusercontent.com/u/75939161?v=4" width=115><br><sub>Pablo Guillermo Cieslik</sub>](https://github.com/undertangoclub) |
+| [<img src="https://avatars.githubusercontent.com/u/75939161?s=400&u=a5276f62490bfed25b35f40410b8014b20b59364&v=4" width=115><br><sub>Pablo Guillermo Cieslik</sub>](https://github.com/undertangoclub) |
 | :---: |
 
 ## ✉ Contacto
@@ -63,9 +67,13 @@ Este proyecto está bajo la licencia MIT. Puedes consultar los términos en el a
 
 ## 📈 Estado del Proyecto
 
-<h4 align="center">🚧 Proyecto en desarrollo 🚧</h4>
+<h4 align="center">✅ Proyecto Completado ✅</h4>
 
-Estamos trabajando para implementar nuevas funcionalidades y mejoras en la interfaz de usuario. ¡Mantente al tanto de las próximas actualizaciones!
+## 🎥 Video del Proyecto
+
+Puedes ver el video explicativo del proyecto en el siguiente enlace:
+
+[![Video de Presentación](https://img.shields.io/badge/YouTube-Watch-red)](https://youtu.be/k30J8RuB-xQ)
 
 ## 🛡️ Referencias
 
